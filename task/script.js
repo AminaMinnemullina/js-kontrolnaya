@@ -50,6 +50,7 @@ function render() {
   });
 }
 
+
 /* ---------- удаление ---------- */
 
 function removeTask(id) {
